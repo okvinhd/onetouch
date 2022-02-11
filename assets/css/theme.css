@@ -11746,8 +11746,8 @@ a.text-link:hover {
 }
 
 .docs-sidebar.sidebar-hidden {
-    -webkit-transform: translateX(-300px);
-    transform: translateX(-300px);
+    -webkit-transform: translateX(-400px);
+    transform: translateX(-400px);
     display: block
 }
 
