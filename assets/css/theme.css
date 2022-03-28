@@ -67,6 +67,10 @@ hr {
 hr:not([size]) {
     height: 1px
 }
+.img-size{
+    width: 1000px;
+    padding-bottom: 10px;
+}
 
 h6,
 .h6,
